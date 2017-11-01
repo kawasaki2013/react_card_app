@@ -9,7 +9,7 @@ const Subtitle = styled.h3`text-align: center;`
 
 const Media = styled.img`width: 100%;height: auto;`
 
-console.log('hello world, git pre commit, and prettiers!!!!')
+console.log('hello world, git pre commit, and prettiers!!!!!')
 
 class App extends Component {
   render() {
