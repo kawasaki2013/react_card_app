@@ -5,11 +5,11 @@ const Card = styled.div`width: 500px;height: 380px;background: papayawhip;margin
 
 const Title = styled.h1`color: tomato;text-align: center;`
 
-const Subtitle = styled.h3`text-align: center;`
+const Subtitle = styled.h3`text-align: center;`x
 
 const Media = styled.img`width: 100%;height: auto;`
 
-console.log('hello world, git pre commit, and prettiers.')
+console.log('hello world, git pre commit, and prettiers!.')
 
 class App extends Component {
   render() {
